@@ -1,8 +1,0 @@
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.csproj.AssemblyReference.cache
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.AssemblyInfoInputs.cache
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.AssemblyInfo.cs
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.csproj.CoreCompileInputs.cache
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.RazorAssemblyInfo.cache
-C:\Users\julia\Documents\Tri-C\IT 2030\Assignment 9\MyTripLog\JuliaMajkowskiProject1\obj\Debug\net6.0\MyTripLog.RazorAssemblyInfo.cs
